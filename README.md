@@ -1,2 +1,2 @@
 # LDI-Public
-Public Code for Luminus Devices Applications
+Public Code for Luminus Devices Applications Team
